@@ -9,9 +9,8 @@ Currently, two official plugins are available:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Project Details
-==============================
-FrontEnd : React Js
-Backend : JSON Server
+- FrontEnd : React Js
+- Backend : JSON Server
 
 1. Home Page (Contact List)
 2. Create Contact Page
