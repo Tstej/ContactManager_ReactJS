@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "id": "a779",
+      "name": "Ramesh Kapoor",
+      "photo": "https://tse1.mm.bing.net/th?id=OIP.srNFFzORAaERcWvhwgPzVAHaHa&pid=Api&P=0&h=180",
+      "mobile": "9876543257",
+      "email": "ramesh@gmail.com",
+      "title": "Software Engineer",
+      "company": "HCL Technologies",
+      "group": "1"
+    },
+    {
+      "id": "70fb",
+      "name": " Yash Shinde",
+      "photo": " https://tse1.mm.bing.net/th?id=OIP.srNFFzORAaERcWvhwgPzVAHaHa&pid=Api&P=0&h=180",
+      "mobile": " 9988776651",
+      "email": " yash@gmail.com",
+      "title": " Web Designer",
+      "company": " Infosys",
+      "group": "3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
